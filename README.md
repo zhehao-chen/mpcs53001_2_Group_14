@@ -2,6 +2,7 @@
 Final Project 
 1. mysql_db.sql:
    * purpose: used to create MySQL tables based on ERD / Data design
+   * function: create those tables in MySQL
 2. mysql_core.py:
    * purpose: use faker to simulate the data based on the time series order
    * function: create 1000 users, 5000 products and 100,000 orders in MySQL tables
